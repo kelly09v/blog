@@ -29,19 +29,23 @@
     </div>
 
     <div class="jumbotron">
-        <h1>Bienvenido a la tienda virtual de colonias C&C</h1>
-        <p>Esta es la página de inicio de mi sitio web. Aquí puedes encontrar tus fragancias favoritas y muy buen precio 
+        <h1>Bienvenido a la tienda virtual de colonias C&C</h1>      
+        <p>te ofrecemos gran variedad  <br>
+            de fragancias  </br>
         .</p>
     </div>
 
     <div class="row">
         <div class="col-md-6">
-            <h2>Sección 1</h2>
-            <p>aromas frutales.</p>
+            <h2>aqui estan las aroma frutales </h2>
+            <p>212 vip rouse</p>
+            <p>can can </p>
         </div>
         <div class="col-md-6">
             <h2>Sección 2 </h2>
             <p>colonias suaves.</p>
+            <p>la vida es vella</p>
+            <p>moon sparkle</p>
         </div>
     </div>
 
