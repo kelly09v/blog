@@ -29,26 +29,32 @@
     </div>
 
     <div class="jumbotron">
-        <h1>Bienvenido a mi sitio web</h1>
-        <p>Esta es la página de inicio de mi sitio web. Aquí puedes agregar cualquier contenido que desees mostrar a tus
-            visitantes.</p>
+        <h1>Bienvenido a la tienda virtual de colonias C&C</h1>
+        <p>Esta es la página de inicio de mi sitio web. Aquí puedes encontrar tus fragancias favoritas y muy buen precio 
+        .</p>
     </div>
 
     <div class="row">
         <div class="col-md-6">
             <h2>Sección 1</h2>
-            <p>Contenido de la sección 1.</p>
+            <p>aromas frutales.</p>
         </div>
         <div class="col-md-6">
-            <h2>Sección 2</h2>
-            <p>Contenido de la sección 2.</p>
+            <h2>Sección 2 </h2>
+            <p>colonias suaves.</p>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-12">
-            <h2>Otra sección</h2>
-            <p>Contenido de otra sección.</p>
+            <h2>seccion 3</h2>
+            <p> oriental .</p>
         </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2> sección 4 </h2>
+                <p> woody .</p>
+            </div>
     </div>
 @endsection
